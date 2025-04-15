@@ -81,6 +81,44 @@
 
 ---
 
+### 🚀 Top Contributed Repositories
+
+#### Ishmeet Singh's GitHub Contributor Highlights
+
+📘 **[Eazy Survey (.NET, Angular 13)](https://github.com/ishmeet47/Eazy-Survey)**  
+🔹 A smart survey platform with automated user assignment, email notifications, and admin dashboard.
+
+📘 **[AI-Powered Portfolio Builder (React, Node.js, Flask)](https://github.com/ishmeet47/AI-Powered-Portfolio-Builder)**  
+🔹 Built a portfolio generator that reads resumes and auto-generates online portfolios using AI.
+
+📘 **[E-Learning Platform (Django, SQLite)](https://github.com/ishmeet47/E-Learning-Platform)**  
+🔹 LMS-style eLearning tool with assignments, grades, automated emails, and Stripe integration.
+
+📘 **[Smart Frigg (React, AWS)](https://github.com/ishmeet47/frigg-frontend)**  
+🔹 Grocery tracker app with expiration logic, family login support, AWS hosting, and real-time sync.  
+🔗 [Backend Repo](https://github.com/ishmeet47/frigg-backend)
+
+📘 **[Clustering & Analysis on PUBG Gameplay (Python, ML)]**  
+🔹 Local project: analyzed PUBG player behavior using PCA & clustering to extract insights.
+
+---
+
+### 📊 GitHub Stats:
+
+#### Ishmeet Singh's GitHub Stats
+
+| **Metric**              | **Count**           |
+|------------------------|---------------------|
+| ⭐ Total Stars Earned   | 4+                  |
+| 📝 Total Commits        | 150+ (across years) |
+| 🔀 Total Pull Requests  | 20+                 |
+
+> 📌 Stats represent cumulative public and open-source activity; freelance and enterprise repo activity is not included.
+
+---
+
+
+
 ### 🏅 Achievements
 
 - 🥇 Winner: **Demo Day – University of Windsor 2022**
