@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishmeet Singh</h1>
-<h3 align="center">Full Stack Developer | .NET & Java Enthusiast | 1000+ DSA Problems Solved</h3>
+<h3 align="center">Full Stack Developer | Java & Spring Boot Enthusiast | 1000+ DSA Problems Solved</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishmeet47&label=Profile%20views&color=0e75b6&style=flat" alt="ishmeet47" />
@@ -7,9 +7,9 @@
 
 ---
 
-🔭 Currently building: `.NET based Survey Automation Platform`  
+🔭 Currently building: `Java and Spring Boot based Fitness Platform`  
 💻 Passionate about: **Competitive Programming**, **Hackathons**, **System Design**, **Angular Frameworks**  
-💬 Ask me about: `Spring Boot`, `React`, `MongoDB`, `C#`, `Microservices`, and **all things Angular**  
+💬 Ask me about: `Spring Boot`, `React`, `MongoDB`, `C#`, `Microservices`, and **all things about Angular**  
 🎯 One goal that drives me daily:  
 👉🏼 <span style="color:#FF69B4"><strong>Become a Candidate Master on Codeforces 💗</strong></span>  
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ishmeet99/)  
@@ -124,7 +124,7 @@
 - 🥇 Winner: **Demo Day – University of Windsor 2022**
 - 🧠 Ranked **Top 15** – CodeChef SnackDown
 - 🚀 **ACM ICPC Asia Regionals** – Twice qualified
-- 🧬 Built apps in AWS, Angular 13, MongoDB, Spring Boot, and Django
+- 🧬 Built apps in AWS, Angular 13, MongoDB, Spring Boot, Django , C# and .NET.
 
 ---
 
